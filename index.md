@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: leeds_dcch
+  collection: qatar
   pid: obj10
   y: 25%
   clickable: yes
@@ -16,7 +16,8 @@ To explore our initiatives and projects, please refer to our [documentation](#) 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='leeds_dcch' %}
+{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+
 
 Meet Our Team Members:
 - Harith Sami
