@@ -2,18 +2,23 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
+  collection: leeds_dcch
   pid: obj10
   y: 25%
   clickable: yes
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+The **Digital Creativity and Culture Hub (DCCH)** at the University of Leeds is dedicated to the digitization methods and preservation of historical and archival artifacts. Our mission involves leveraging modern techniques such as IIIF manuscripts, 3D scanning, and more to ensure the longevity, accessibility, and scholarly exploration of cultural heritage.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+To explore our initiatives and projects, please refer to our [documentation](#) for details on accessing our digital collections and exhibitions.
 
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='leeds_dcch' %}
+
+Meet Our Team Members:
+- Harith Sami
+- Maia Mackay
+- Cassie Ulph
