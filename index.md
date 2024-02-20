@@ -23,3 +23,5 @@ Meet Our Team Members:
 - Harith Sami
 - Maia Mackay
 - Cassie Ulph
+- Anthony Sibley
+- Rob Fitzgerald
