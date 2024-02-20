@@ -28,6 +28,9 @@ To contribute:
 3. Make changes and commit them with descriptive messages.
 4. Push your changes to your fork.
 5. Submit a pull request detailing your changes.
+6. Locally host the page using `bundle exec jekyll serve`
+
+
 
 ## Support
 
