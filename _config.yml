@@ -19,8 +19,8 @@
 
 title:            'DCCH'
 description:      'Minimal Exhibitions with Jekyll'
-url:              https://harithsami.github.io/LeedsDCCH/'
-baseurl:          '/dcch'
+url:              'https://minicomp.github.io'
+baseurl:          '/wax'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
